@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## dart sdk 
+3.19.6
 
 This project is a starting point for a Flutter application.
 
